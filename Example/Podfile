@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftTransitionTreasury_Tests' do
+  pod 'SwiftTransitionTreasury', :path => '../'
+  
+  
+end
