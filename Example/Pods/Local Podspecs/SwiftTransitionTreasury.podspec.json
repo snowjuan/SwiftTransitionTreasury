@@ -1,0 +1,22 @@
+{
+  "name": "SwiftTransitionTreasury",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftTransitionTreasury.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/snowjuan/SwiftTransitionTreasury",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "snowjuan": "henry.hou@intradiem.com"
+  },
+  "source": {
+    "git": "https://github.com/snowjuan/SwiftTransitionTreasury.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftTransitionTreasury/Classes/**/*"
+}

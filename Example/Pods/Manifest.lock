@@ -1,0 +1,16 @@
+PODS:
+  - SwiftTransitionTreasury (0.1.0)
+
+DEPENDENCIES:
+  - SwiftTransitionTreasury (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftTransitionTreasury:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwiftTransitionTreasury: 65b3777a80e8cfcb6b20aec7c4328ee01729b0b9
+
+PODFILE CHECKSUM: dbf51ce3c901be80389c614aceb0f9521a9e559e
+
+COCOAPODS: 1.1.1

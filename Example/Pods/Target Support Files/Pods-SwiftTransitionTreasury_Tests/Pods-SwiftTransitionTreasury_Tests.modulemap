@@ -1,0 +1,6 @@
+framework module Pods_SwiftTransitionTreasury_Tests {
+  umbrella header "Pods-SwiftTransitionTreasury_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
